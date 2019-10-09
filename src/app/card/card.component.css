@@ -1,0 +1,27 @@
+.jumbotron
+{
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQQEgAcC17endUMEZgWJduq6RJCH_AepyviB6-YhZh29q0F_-u1');
+    background-size: 100% 100%;
+    margin-top: 20px;
+    color:white;
+    padding-bottom: 200px;
+    
+}
+.lo{
+    height:650px;
+    width:400px;
+    overflow:clip;
+    margin-top:10px;
+    
+    
+}
+
+.lo1{
+    height:400px;
+    width:286px;
+}
+
+.lo2{
+    margin-top:10px;
+    
+}
